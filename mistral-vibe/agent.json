@@ -1,7 +1,7 @@
 {
   "id": "mistral-vibe",
   "name": "Mistral Vibe",
-  "version": "2.24.1",
+  "version": "2.26.0",
   "description": "Mistral's open-source coding assistant",
   "repository": "https://github.com/mistralai/mistral-vibe",
   "website": "https://mistral.ai/products/vibe",
@@ -9,33 +9,34 @@
     "Mistral AI"
   ],
   "license": "Apache-2.0",
+  "license_url": "https://github.com/mistralai/mistral-vibe/blob/main/LICENSE",
   "icon": "./icon.svg",
   "distribution": {
     "binary": {
       "darwin-aarch64": {
-        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.24.1/vibe-acp-darwin-aarch64-2.24.1.tar.gz",
+        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.26.0/vibe-acp-darwin-aarch64-2.26.0.tar.gz",
         "cmd": "./vibe-acp",
-        "sha256": "4faa3ed31454ee739fac2d5ff052c56056b175611a7b7ace0a4191f2bf83ba93"
+        "sha256": "a7830f89519b8744b059a8ef6538f08b7d04dfab4a208f605b4cc7adde974e9b"
       },
       "darwin-x86_64": {
-        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.24.1/vibe-acp-darwin-x86_64-2.24.1.tar.gz",
+        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.26.0/vibe-acp-darwin-x86_64-2.26.0.tar.gz",
         "cmd": "./vibe-acp",
-        "sha256": "97d512a02e97fb828824cfb7b72734574f086d0442851c5fdfb432d7dabfa88a"
+        "sha256": "f80393f1fa8032770e53e7ccb96c2695bff303c3f6515b0d136ca77d0d5eec86"
       },
       "linux-aarch64": {
-        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.24.1/vibe-acp-linux-aarch64-2.24.1.tar.gz",
+        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.26.0/vibe-acp-linux-aarch64-2.26.0.tar.gz",
         "cmd": "./vibe-acp",
-        "sha256": "e43913b43f0666df2a42060cd3bd410805b0ca1218843b0c242edf874a78c31a"
+        "sha256": "1453148ed6b6bcf33cda02bec01db8b5cae4b567230c632bcdc627f7e82e2ff0"
       },
       "linux-x86_64": {
-        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.24.1/vibe-acp-linux-x86_64-2.24.1.tar.gz",
+        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.26.0/vibe-acp-linux-x86_64-2.26.0.tar.gz",
         "cmd": "./vibe-acp",
-        "sha256": "8e87f581e7c292fbeab7377178e947ddc4e83753c409f1db0760631f11d7083c"
+        "sha256": "a429760edc3bd51d0acf4a8171f767a5d3a6989074e09303c748214883e55d04"
       },
       "windows-x86_64": {
-        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.24.1/vibe-acp-windows-x86_64-2.24.1.zip",
+        "archive": "https://github.com/mistralai/mistral-vibe/releases/download/v2.26.0/vibe-acp-windows-x86_64-2.26.0.zip",
         "cmd": "./vibe-acp.exe",
-        "sha256": "a66329ff18845f8e810359910e8da15bb2071648159c13a10838e5ae7a7d9b81"
+        "sha256": "7111916a2d7085f922286823fcfe03a837f3e9989af5fb507f4e7c74273edbd2"
       }
     }
   }
